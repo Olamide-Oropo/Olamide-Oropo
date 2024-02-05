@@ -1,8 +1,8 @@
 ## Hey There,I'm Habib Olamide Oropo
 - 👋 Hi, I’m @Olamide-Oropo
-- 👀 I’m interested in full stack development and app development
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on Any Field 
+- 👀 I’m interested in Frontend Web development and React
+- 🌱 I’m currently learning Type script
+- 💞️ I’m looking to collaborate in many fields to take on interesting challenges :) 
 - 📫 How to reach me oropohabib@gmail.com
 
 <!---
