@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Olamide-Oropo
 - 👀 I’m interested in Frontend Web development and React
 - 🌱 I’m currently learning Type script
-- 💞️ I’m looking to collaborate in many fields to take on interesting challenges :) 
+- 💞️ I’m looking to collaborate in many fields to take on interesting challenges 😃
 - 📫 How to reach me oropohabib@gmail.com
 
 <!---
