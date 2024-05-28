@@ -7,7 +7,7 @@
 
 ### Tools i am proficient in
 - ReactJs / Redux
-- Tailwindcss
+- Tailwindcss /Bootstrap
 - Typescript / Javascript
 - Responsive Design / Mobile Workflow
 - Git
