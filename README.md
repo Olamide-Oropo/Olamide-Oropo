@@ -1,7 +1,7 @@
 ## Hey There,I'm Habib Olamide Oropo
 - 👋 Hi, I’m @Olamide-Oropo
-- 👀 I’m interested in Frontend Web development and React
-- 🌱 I’m currently learning Type script
+- 👀 I’m interested in Frontend Web development and visual animations
+- 🌱 I’m currently learning NextJs and Framer motion.
 - 💞️ I’m looking to collaborate in many fields to take on interesting challenges 😃
 - 📫 How to reach me oropohabib@gmail.com
 
@@ -10,7 +10,7 @@
 - Tailwindcss /Bootstrap
 - Typescript / Javascript
 - Responsive Design / Mobile Workflow
-- Git
+- Git and version control
 - ExpressJs
 - Jquery / Ajax
 - Semantic HTML / CSS
