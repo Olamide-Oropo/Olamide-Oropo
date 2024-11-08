@@ -5,11 +5,11 @@
 - 💞️ I’m looking to collaborate in many fields to take on interesting challenges 😃
 - 📫 How to reach me oropohabib@gmail.com
 
-### Tools i am proficient in
+### Technologies i am proficient in
 - ReactJs / Redux
 - Tailwindcss /Bootstrap
 - Typescript / Javascript
-- Responsive Design / Mobile Workflow
+- Responsive Design / Mobile First Workflow
 - Git and version control
 - ExpressJs
 - Jquery / Ajax
