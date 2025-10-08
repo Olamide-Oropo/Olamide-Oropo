@@ -1,7 +1,7 @@
 ## Hey There,I'm Habib Olamide Oropo
 - 👋 Hi, I’m @Olamide-Oropo
 - 👀 I’m interested in Frontend Web development and visual animations
-- 🌱 I’m currently learning NextJs and Framer motion.
+- 🌱 I’m currently learning Motion and rive.
 - 💞️ I’m looking to collaborate in many fields to take on interesting challenges 😃
 - 📫 How to reach me oropohabib@gmail.com
 
